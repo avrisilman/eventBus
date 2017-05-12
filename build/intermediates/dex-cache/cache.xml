@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/domikado/EventBus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/domikado/EventBus/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f7523816be0c338da52e152d2d286f15d832168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/domikado/EventBus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e0bd548676a215822a45727a4958857bcabf2b6a">
+        <dex dex="/Users/domikado/EventBus/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3b435438ab3786a65fdd3a89b5bc9b8e6743bf27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/domikado/.android/build-cache/41d14867d32b5ca738afe1b6217521deb9873a6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/domikado/EventBus/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94d44ccbf0933bacacfb7b0883b59376497d841d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/domikado/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/domikado/EventBus/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d1c0fab1ef344d7f1eab81abe4d1ddbbfa6567cd/classes.dex" />
+    </item>
+
+</items>
